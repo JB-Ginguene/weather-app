@@ -19,10 +19,10 @@ npm run serve
 
 ### Some screenshots of the app :
 
-###### When it's to go hiking in the moutains :
+###### When it's time to go hiking in the moutains :
 
 ![JB-Ginguene-weather-app-warm](./src/assets/readme/readme-warm.png)
 
-###### When it's to go skiing :
+###### When it's time to go skiing :
 
 ![JB-Ginguene-weather-app-cold](./src/assets/readme/readme-cold.png)
