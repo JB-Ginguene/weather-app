@@ -3,7 +3,7 @@
 Hello !
 
 Here is my first Vue.js project, a small weather app using openweathermap API to know what's the weather like on the other of the planet.
-Soory the app is in french :-)
+Sorry the app is in french :-)
 
 ## Project setup
 
